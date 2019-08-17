@@ -1,2 +1,4 @@
 practice
 2nd line add
+git add
+git commit
